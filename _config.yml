@@ -26,7 +26,7 @@ title: Høiland.com Blog                          # the main title
 tagline: Min vei til Cyber Security   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Min vei til Cyber Security 
+  Min vei til Cyber Security. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://freddiien.github.io/'
